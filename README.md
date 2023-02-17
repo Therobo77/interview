@@ -13,3 +13,13 @@ I am making this Repository for some important technical and non-technical quest
 
 ## Some important HR round Question 
 - PDF [LINK](https://media.licdn.com/dms/document/C4E1FAQHVH8SwStU2sA/feedshare-document-pdf-analyzed/0/1676373269335?e=1677715200&v=beta&t=z-5k-zcqgWszXrran8DULN9Wz2U9vO7aoAQKkvSIUHs)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/105917542/219561825-99dee00a-8c8e-4d8d-a283-83c0a43ae04b.png)
+
+![image](https://user-images.githubusercontent.com/105917542/219561787-d8ae5214-ad3a-4f86-a7b0-be274a048dfd.png)
+
+![image](https://user-images.githubusercontent.com/105917542/219561765-a05d8bf3-4e95-4129-a965-b9d8f803c43d.png)
