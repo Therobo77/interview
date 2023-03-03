@@ -1,0 +1,1 @@
+# All Important MongoDB question which an interviewer can ask ?
