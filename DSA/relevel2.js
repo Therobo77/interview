@@ -65,7 +65,7 @@ function simplyEqual(arr, n) {
 }
 n = 3;
 s = [2, 1, 2];
-simplyEqual(s, n);
+// simplyEqual(s, n);
 //Driver Code
 // var t =readline();
 // while(t--)
@@ -107,3 +107,4 @@ itms.map((el,i)=>{
     sum+=el.p;
 })
 // console.log(sum);
+
