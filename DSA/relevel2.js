@@ -54,14 +54,14 @@ function simplyEqual(arr, n) {
   //   return arr
   let sum = 0; // for adding value;
   let min = Infinity;
+
   for (let i = 0; i < arr.length; i++) {
     sum += arr[i];
     min = Math.min(min, arr[i]);
-
-    let ans = 0;
-    ans = sum - n * min;
-    console.log(ans);
   }
+  let ans = 0;
+  ans = sum - n * min;
+  console.log(ans - arr.indexOf(min));
 }
 n = 3;
 s = [2, 1, 2];
@@ -80,3 +80,30 @@ simplyEqual(s, n);
 //     var num  = simplyEqual(s,n);
 //     print(num);
 // }
+const itms = [
+  {
+    id: 1,
+    p: 500,
+  },
+  {
+    id: 1,
+    p: 500,
+  },
+  {
+    id: 1,
+    p: 500,
+  },
+  {
+    id: 1,
+    p: 500,
+  },
+  {
+    id: 1,
+    p: 500,
+  },
+];
+let sum=0
+itms.map((el,i)=>{
+    sum+=el.p;
+})
+// console.log(sum);
